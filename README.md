@@ -255,8 +255,7 @@ uvicorn app.main:app --reload
 
 The backend will run at:
 
-http://127.0.0.1:8000
-
+https://citypulse-hack.onrender.com
 3. Frontend Setup
 
 Open a new terminal and return to the project root:
@@ -273,7 +272,7 @@ npm run dev
 
 The frontend will normally be available at:
 
-http://localhost:5173
+city-pulse-gamma-bay.vercel.app
 
 📖 API Documentation
 
